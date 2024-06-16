@@ -10,6 +10,7 @@ public class MainClass extends JFrame{
         setVisible(true);
         setLayout(null);
         setLocationRelativeTo(null);
+        setResizable(false);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 
